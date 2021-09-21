@@ -45,7 +45,6 @@ and [MUI v5 documentation](https://mui.com/getting-started/installation/). To le
 
 ___
 ![acm_csun](./acm_csun.png)
-####[www.csunacm.org](www.csunacm.org) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [www.csun.edu](www.csun.edy)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
