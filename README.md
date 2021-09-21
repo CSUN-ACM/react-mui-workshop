@@ -26,25 +26,11 @@ Each part of this workshop is seperated by branches in this repository.
 + [part 3 - Fetch API and useEffect hook](https://github.com/CSUN-ACM/react-mui-workshop/tree/Part3-Fetch+useEffect)
 + [part 4 - MUI component library](https://github.com/CSUN-ACM/react-mui-workshop/tree/part4-MUI)
 
-### Available Scripts
-In the project directory, you can run:
-
-#### `yarn install` or `npm install`
-installs all dependencies for this project that are listed in package.json.
-
-#### `yarn start` or `npm start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
 ## Learn More
 You can learn more about React and Material UI from the [React documentation](https://reactjs.org/) 
 and [MUI v5 documentation](https://mui.com/getting-started/installation/). To learn more about Material Design take a look at [material.io](https://material.io/design).
 
 ___
-![acm_csun](./acm_csun.png)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
