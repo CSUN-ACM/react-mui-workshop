@@ -21,10 +21,10 @@ if you want to follow along.
 
 Each part of this workshop is seperated by branches in this repository.
 
-+ [Part 1 - React + MUI baseline]()
-+ [Part 2 - useContext and useState hooks]()
-+ [part 3 - Fetch API and useEffect hook]()
-+ [part 4 - MUI component library]()
++ [Part 1 - React + MUI baseline](https://github.com/CSUN-ACM/react-mui-workshop/tree/part1-react+mui-baseline)
++ [Part 2 - useContext and useState hooks](https://github.com/CSUN-ACM/react-mui-workshop/tree/Part2-useContext%26useState)
++ [part 3 - Fetch API and useEffect hook](https://github.com/CSUN-ACM/react-mui-workshop/tree/Part3-Fetch+useEffect)
++ [part 4 - MUI component library](https://github.com/CSUN-ACM/react-mui-workshop/tree/part4-MUI)
 
 ### Available Scripts
 In the project directory, you can run:
