@@ -1,4 +1,4 @@
-# Part 3 - Fetch + useEffect
+# Part 3 - Fetch + useEffect + memo
 
 ### Available Scripts
 In the project directory, you can run:
