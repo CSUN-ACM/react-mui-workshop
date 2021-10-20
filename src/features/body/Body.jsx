@@ -1,9 +1,9 @@
-import {useEffect, useState} from "react";
+import {memo, useEffect, useState} from "react";
 import WeatherForm from "./WeatherForm";
 import {Box, Grid, Paper} from "@mui/material";
 import WeatherDisplay from "./WeatherDisplay";
 
-const Body = () => {
+const Body = memo( () => {
     const [weatherData, setWeatherData] = useState({})
 
     const fetchWeather = async (areaCode) => {
@@ -46,6 +46,6 @@ const Body = () => {
         </Paper>
 
     );
-};
+});
 
 export default Body;
