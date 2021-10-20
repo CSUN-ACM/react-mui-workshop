@@ -1,6 +1,6 @@
-import {useEffect, useState} from "react";
+import {memo, useEffect, useState} from "react";
 
-const Body = () => {
+const Body = memo( () => {
     const [weatherData, setWeatherData] = useState({})
 
     const fetchWeather = async (areaCode) => {
@@ -22,6 +22,6 @@ const Body = () => {
 
 
     return null;
-};
+});
 
 export default Body;
