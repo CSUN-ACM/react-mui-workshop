@@ -1,5 +1,5 @@
+import {AppBar, Avatar, Grid, ToggleButton, Typography} from "@mui/material";
 import ThemeToggle from "./theme/ThemeToggle";
-import {AppBar, Avatar, Grid, Typography} from "@mui/material";
 
 const Header = () => {
     return (
