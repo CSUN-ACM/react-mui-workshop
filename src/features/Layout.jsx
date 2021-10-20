@@ -1,5 +1,5 @@
 import Header from './Header';
-import Body from './body/Body'
+import Body from './Body'
 import Footer from "./Footer";
 import {Box, Container} from "@mui/material";
 
