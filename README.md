@@ -1,12 +1,12 @@
-# Part 1 - React + MUI baseline
+# Part 2 - UseContext & UseState hooks
 
 ### Available Scripts
 In the project directory, you can run:
 
-#### `yarn install` or `npm install`
+#### `npm install`
 installs all dependencies for this project that are listed in package.json.
 
-#### `yarn start` or `npm start`
+#### `npm start`
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
