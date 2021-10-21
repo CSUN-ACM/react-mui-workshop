@@ -19,6 +19,10 @@ To get the most out of this workshop you should be comfortable programming with 
 You must have [Node.js](https://nodejs.org/en/) installed and make sure to [clone this repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 if you want to follow along.
 
+You also need to grab a Free API key from [OpenWeather](https://openweathermap.org/api). 
+Create an account and navigate to [My Api Keys](https://home.openweathermap.org/api_keys).
+Generate an api key called "react-mui-demo" or something like that.
+
 Each part of this workshop is seperated by branches in this repository.
 
 + [Part 1 - React + MUI baseline](https://github.com/CSUN-ACM/react-mui-workshop/tree/part1-react+mui-baseline)
