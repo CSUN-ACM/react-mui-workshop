@@ -22,6 +22,8 @@ if you want to follow along.
 You also need to grab a Free API key from [OpenWeather](https://openweathermap.org/api). 
 Create an account and navigate to [My Api Keys](https://home.openweathermap.org/api_keys).
 Generate an api key called "react-mui-demo" or something like that.
+You will need to add this api key to the .env file included on this page.
+REACT_APP_OPENWEATHER_API_KEY=YOUR_API_KEY 
 
 Each part of this workshop is seperated by branches in this repository.
 
