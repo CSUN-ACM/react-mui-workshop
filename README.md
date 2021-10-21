@@ -17,16 +17,17 @@ MUI components follow the [Material Design](https://material.io/design/introduct
 ### Requirements
 To get the most out of this workshop you should be comfortable programming with Javascript.
 You must have [Node.js](https://nodejs.org/en/) installed and make sure to [clone this repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-if you want to follow along.
+if you want to follow along. 
 
 You also need to grab a Free API key from [OpenWeather](https://openweathermap.org/api). 
 Create an account and navigate to [My Api Keys](https://home.openweathermap.org/api_keys).
 Generate an api key called "react-mui-demo" or something like that.
-You will need to add this api key to the .env file included on this page.
+You will need to add this api key to the .env file included on this page
 REACT_APP_OPENWEATHER_API_KEY=YOUR_API_KEY 
 
-Each part of this workshop is seperated by branches in this repository.
+### [Clone this project >](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
 
+Each part of this workshop is seperated by branches in this repository.
 + [Part 1 - React + MUI baseline](https://github.com/CSUN-ACM/react-mui-workshop/tree/part1-react+mui-baseline)
 + [Part 2 - useContext and useState hooks](https://github.com/CSUN-ACM/react-mui-workshop/tree/Part2-useContext%26useState)
 + [part 3 - Fetch API and useEffect hook](https://github.com/CSUN-ACM/react-mui-workshop/tree/Part3-Fetch+useEffect)
